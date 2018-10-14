@@ -1,0 +1,6 @@
+{
+	"Base_URL" : "https://XXXX.testrail.net/",
+	"Basic_Authentication_username" : "User_registered_email",
+	"Basic_Authentication_password" : "API_key_generated_by_user",
+	"Testrail_project_id" : "XX"
+}
